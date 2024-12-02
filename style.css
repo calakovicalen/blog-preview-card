@@ -55,6 +55,7 @@ body {
   background: #f4d04e;
   border: none;
   border-radius: 4px;
+  line-height: 150%;
 }
 
 .text-container span {
